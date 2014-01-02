@@ -1,7 +1,7 @@
 {
     "name": "Trial App",
     "description": "An interesting app",
-    "version": "0.1.0",
+    "version": "sys-dev",
     "keywords": ["Trial-app", "app"],
     "homepage": "http://dilip-vishwa.github.io/trial-app",
     "author": "Dilip-Vishwa",
