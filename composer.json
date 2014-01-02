@@ -1,0 +1,21 @@
+{
+    "name": "dilip-vishwa/trial-app",
+    "description": "An Interesting App",
+    "keywords": ["Trial-app", "app"],
+    "homepage": "http://",
+    "authors": [
+        {
+            "name": "Dilip-Vishwa",
+            "email": "dilip..."
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/dilip-vishwa/trial-app/issues?state=open"
+    },
+    "license": "BSD 2-Clause",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.0"
+        }
+    }
+}

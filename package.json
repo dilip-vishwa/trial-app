@@ -1,0 +1,32 @@
+{
+    "name": "Trial App",
+    "description": "An interesting app",
+    "version": "0.1.0",
+    "keywords": ["Trial-app", "app"],
+    "homepage": "http://",
+    "author": "Dilip-Vishwa",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dilip-vishwa/trial-app.git"
+    },
+    "bugs": {
+        "url": "https://github.com/dilip-vishwa/trial-app/issues?state=open"
+    },
+    "licenses": [
+        {
+            "type": "BSD 2-Clause",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0"
+        }
+    ],
+    "jspm": {
+        "main": "js/bootstrap",
+        "directories": {"lib": "dist"},
+        "shim": {
+            "js/bootstrap": {
+                "imports": "jquery",
+                "exports": "$"
+            }
+        },
+        "buildConfig": {"uglify": true}
+    }
+}
