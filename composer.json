@@ -1,0 +1,13 @@
+{
+    "name": "dilip-vishwa/trial-app",
+    "description": "It is an Interesting App.",
+    "authors": [
+        {
+            "name": "dilip-vishwa",
+            "email": "dilip...."
+        }
+    ],
+    "require": {
+        "yiisoft/yii": "dev-master"
+    }
+}
