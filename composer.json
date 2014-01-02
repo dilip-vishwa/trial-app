@@ -9,5 +9,8 @@
     ],
     "require": {
         "yiisoft/yii": "dev-master"
+    },
+    "require-dev": {
+        "yiisoft/yii": "dev-master"
     }
 }
