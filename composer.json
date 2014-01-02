@@ -15,7 +15,7 @@
     "license": "BSD 2-Clause",
     "extra": {
         "branch-alias": {
-            "dev-master": "0.1.0"
+            "dev-master": "0.1.0-dev"
         }
     }
 }
