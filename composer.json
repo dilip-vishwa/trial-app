@@ -2,11 +2,11 @@
     "name": "dilip-vishwa/trial-app",
     "description": "An Interesting App",
     "keywords": ["Trial-app", "app"],
-    "homepage": "http://",
+    "homepage": "http://dilip-vishwa.github.io/trial-app",
     "authors": [
         {
             "name": "Dilip-Vishwa",
-            "email": "dilip..."
+            "email": "dilip-vishwa@users.noreply.github.com"
         }
     ],
     "support": {
